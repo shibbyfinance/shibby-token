@@ -13,11 +13,11 @@ Use a diffchecker to verify our contract is secure:
 https://www.diffchecker.com/7o71qrFO
 
 # Total Supply Distribution:
-28.00 % Presale
-45.80 % Burned (sent to dead address)
-17.64 % Locked Liquidity until 2099 
-8.00 % Team Funds locked up to 2 years
-0.56 % DXSALE Fees
+- 28.00 % Presale
+- 45.80 % Burned (sent to dead address)
+- 17.64 % Locked Liquidity until 2099 
+- 8.00 % Team Funds locked up to 2 years
+- 0.56 % DXSALE Fees
 
 # Token Burn
 
