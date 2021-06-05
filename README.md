@@ -1,15 +1,16 @@
 # Shibby Token
 
-Codebase has been forked from PANTHER
+Codebase has been forked from TAMA https://tama.finance/
+instead of a multi-signature wallet that controls the charity-funds like with TAMA, the SHIBBY team created the worlds first Decentralized Autonomous Organization on BSC which will have ownership over the charity funds and SHIBBY holders will need to reach a >50% consensus to move the funds.
 
-PANTHER: https://bscscan.com/address/0x1f546ad641b56b86fd9dceac473d1c7a357276b7
+TAMA: https://bscscan.com/address/0x0f1c6791a8b8d764c78dd54f0a151ec4d3a0c090#code
 
-SHIBBY: https://bscscan.com/address/0x13b909309ee14df35f4a98e460f7947ed90b5d8b
+SHIBBY: https://bscscan.com/address/0xB1035523a844371C2877f8a3b2F2f8d337403b6F#code
 
-Only minor adjustements have been made to implement the charity tax. Feel free to check the differences between PANTHER and SHIBBY with diffchecker.com 
+Only minor adjustements have been made. Feel free to check the differences between TAMA and SHIBBY with diffchecker.com 
 
 Use a diffchecker to verify our contract is secure:
-https://www.diffchecker.com/Y77egJBm
+https://www.diffchecker.com/7o71qrFO
 
 
 
